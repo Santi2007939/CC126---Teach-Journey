@@ -3,6 +3,16 @@ Este juego utiliza las definiciones primarias de Teoría de conjuntos y la repre
    
 [![Teach Journey](https://img.youtube.com/vi/o-0iuWVV_Ow/hqdefault.jpg)](https://youtu.be/o-0iuWVV_Ow)
 
+## ⚠️ Disclaimer / Integridad académica
+
+Este repositorio es público con fines educativos y de referencia.
+
+- Se prohíbe el plagio total o parcial y cualquier uso que vulnere el Código de Integridad/Probidad Académica de la UPC o de cualquier otra institución educativa.
+- Puedes estudiar el código y reutilizar ideas o fragmentos no evaluados citando la fuente. Todo trabajo evaluable debe ser de autoría propia.
+- Los autores no asumen responsabilidad por usos indebidos. Cualquier fork o contribución debe respetar estas condiciones.
+
+Nota legal: este repositorio se publica con licencias de uso no comercial (ver enlaces arriba).
+
 ## Cómo jugar :video_game:
 - Al iniciar el nivel, podrás visualizar recursos en el suelo. Al tocarlos, podrás reconocerlo mediante imágenes y, relacionándolos con las imágenes de los contenedores, podrás depositarlos. En caso de error, se descontará un punto. 
 - Tienes que depositar la cantidad indicada mediante fracciones en la parte lateral derecha. Si se excede el número, se descontará la puntuación. Por cada uno que completes de los 3, se te otorgarán 250 puntos, que junto al tiempo serán parte de tu puntaje final.
@@ -26,4 +36,5 @@ Este juego utiliza las definiciones primarias de Teoría de conjuntos y la repre
   - [Machaca Gavino Fernando Sebastian](https://github.com/Nanddo4)
   - [Santi Guerrero Fabrizio Alonso](https://github.com/Santi2007939)
   - [Vizcarra Quezada Luciano](https://github.com/Luciano9205)
+
 
